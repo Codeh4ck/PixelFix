@@ -1,8 +1,8 @@
 # Pixel Fix
-Pixel Fix is an application that fixes stuck pixels by rotating the screen color.
+Pixel Fix is an application that fixes stuck pixels by rapidly rotating the screen color.
 
 # Disclaimer
-Pixel Fix is an application that fixes stuck pixels by rotating the screen color. It has been proven that by rotating the screen
+Pixel Fix is an application that fixes stuck pixels by rapidly rotating the screen color. It has been proven that by rotating the screen
 color rapidly, a stuck pixel can be "rebooted" and start working again. The project includes the following features:
 
 * Can set how much time the rotator will run
