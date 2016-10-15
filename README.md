@@ -13,6 +13,9 @@ color rapidly, a stuck pixel can be "rebooted" and start working again. The proj
 # Health risk notice
 **Do not use this program if you have a history of epilepsy or seizures in general. Strobing light and rapdily-rotating colors can provoke a seizure. If you ignore this warning, the author of this program is not to be held responsible. You agree to this term by running this program. You have been warned.**
 
+# Testing
+This tool has been tested on an 24" Samsung IPS monitor and appears to be working flawlessly. The monitor had 6 stuck pixels and all of them are working perfectly, after a 1 minute rotation with **Pixel Fix**. 
+
 # Screenshot
 
 ![Imgur](http://i.imgur.com/Pgxr8Og.png)
