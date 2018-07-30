@@ -7,7 +7,7 @@ color rapidly, a stuck pixel can be "rebooted" and start working again. The proj
 
 * Can set how much time the rotator will run
 * You can set the colors that will be rotated through
-* If you want to stop earlier, hit the Escale (Esc) button
+* If you want to stop earlier, hit the Escape (Esc) button
 * Does not meddle with any windows. Everything happens in the program's form
 
 # Health risk notice
